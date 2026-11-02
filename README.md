@@ -1,4 +1,5 @@
 # ⚡ Cynbit Autonomous Phase-01 Discovery & Blueprint Engine
+https://cynbit-ai-opportunity-poc-cca8kljme9szc8mwt78ssf.streamlit.app/
 
 **AI/ML Engineer Intern Technical Assessment — Cynbit Technologies**  
 **Candidate:** Akshat Dwivedi (B.Tech CSE, Manipal University Jaipur)
